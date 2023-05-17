@@ -1,7 +1,7 @@
 # Learn React using the official documentation
 https://react.dev/learn
 
-To start using react on VSCode:
+### To start using React on VSCode:
 1. Install nodejs from the [official website](https://nodejs.org/en/download)
 2. Go to environment variables from Windows Search and add the path where you have installed node js in system variables by selecting the new option.
 3. Then go to terminal and cd into the folder you want to create the react application
