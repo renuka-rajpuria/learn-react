@@ -20,6 +20,9 @@ npx --v
 3. ``` node -v ```
 4. ``` npm -v ```
 
+### For browser
+For Chrome install the [React Developer Tools Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
 ### Extensions for React on VSCode:
 
 1. **ESLint:** Provides real-time linting and code analysis for JavaScript and React.
