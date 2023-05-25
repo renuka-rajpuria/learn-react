@@ -14,6 +14,12 @@ npx --v
 6. cd into <APP_NAME>
 7. Type the following to start: ```npm start```
 
+### On linux system:
+1. ``` sudo apt install nodejs ```
+2. ``` sudo apt install nvm ```
+3. ``` node -v ```
+4. ``` npm -v ```
+
 ### Extensions for React on VSCode:
 
 1. **ESLint:** Provides real-time linting and code analysis for JavaScript and React.
