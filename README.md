@@ -14,9 +14,9 @@ npx --v
 6. cd into <APP_NAME>
 7. Type the following to start: ```npm start```
 
-### On linux system:
-1. ``` sudo apt install nodejs ```
-2. ``` sudo apt install nvm ```
+### On Ubuntu 22.04 LTS (Note that node should be >v14 for using react:
+1. ``` sudo snap install node --classic ```
+2. ``` sudo snap install nvm ```
 3. ``` node -v ```
 4. ``` npm -v ```
 
